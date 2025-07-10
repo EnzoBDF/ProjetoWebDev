@@ -8,7 +8,7 @@ export default function SideMenu() {
 
   const links = [
     { name: "Início", href: "/" },
-    { name: "Produtos", href: "/produtos" },
+    { name: "Produtos", href: "/listaProdutos" },
     { name: "Cadastro", href: "/cadastro" },
   ];
 
